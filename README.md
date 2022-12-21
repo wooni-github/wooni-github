@@ -28,9 +28,9 @@
 ---
 - Computer vision
 - Deep learning (Vision)
-- Camera localization (Camera pose estimation)
+- Visual localization (Camera localization, Camera pose estimation)
 - Object pose estimation
 - Object detection
 - Augmented Reality (AR)
 - Point cloud registration
-
+- GAN
