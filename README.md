@@ -15,10 +15,15 @@
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 
+
 💻Tools
 ---
 ![VisualStudio](https://img.shields.io/badge/VisualStudio%20IDE-5C2D91.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/Pycharm%20IDE-000000.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
 
 📫Contacts
 ---
@@ -34,6 +39,7 @@
 - Visual localization (Camera localization, Camera pose estimation)
 - Object pose estimation
 - Object detection
-- Augmented Reality (AR)
+- Mixed Reality (MR), Augmented Reality (AR), eXtended Reality (XR)
 - Point cloud registration
-- GAN
+- Generative modesl / Image translation ~ Generative Adversarial Networks (GAN), Style transfer
+- Neural radiance fields for (NeRF)
