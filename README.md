@@ -36,6 +36,8 @@
 ---
 - Computer vision
 - Deep learning (Vision)
+- Neural Radiance Fields (NeRF)
+- Meta Fashion, Meta Human
 - Visual localization (Camera localization, Camera pose estimation)
 - Object pose estimation
 - Object detection
